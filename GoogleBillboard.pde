@@ -62,7 +62,14 @@ boolean isPrime(Long num){
 	f(3) = 24 
 	f(4) = 100 
 
-	Average?
+	Multiplication --- FAIL
+	7*1*8*2*8*1*8*2*8*4=458752
+	8*1*8*2*8*4*5*9*0*4=0
+
+	PRIME --- FAIL
+	8747135266 --  divisible by 2
+
+	Average --- SUCCESS!
 	7+1+8+2+8+1+8+2+8+4 = 49
 	8+1+8+2+8+4+5+9+0+4 = 49
 	8+7+4+7+1+3+5+2+6+6 = 49
